@@ -25,7 +25,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 <hr>
 
 ## PROGRAM:
-```
+```py
 
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
